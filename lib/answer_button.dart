@@ -16,6 +16,6 @@ class AnswerButton extends StatelessWidget {
           foregroundColor: Colors.white,
           shape:
               RoundedRectangleBorder(borderRadius: BorderRadius.circular(40))),
-      child: Text(text, textAlign: TextAlign.center, style: const TextStyle(fontWeight: FontWeight.bold),);
+      child: Text(text, textAlign: TextAlign.center, style: const TextStyle(fontWeight: FontWeight.bold),); //Cuarto Cambio
   }
 }
