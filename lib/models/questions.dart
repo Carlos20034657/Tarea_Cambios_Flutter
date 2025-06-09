@@ -2,7 +2,7 @@ import 'package:flutter_quiz_1/models/quiz_question.dart';
 
 const questions = [
   QuizQuestion(
-    'Which elements form the foundation of Flutters user interface?', """<--- 1er Cambio"""
+    'Which elements form the foundation of Flutters user interface?', //<--- 1er Cambio
     [
       'Widgets',
       'Components',
