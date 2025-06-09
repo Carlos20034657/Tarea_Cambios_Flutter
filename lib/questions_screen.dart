@@ -37,7 +37,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
           children: [
             Text(
               currentQuestion.text,
-              style: GoogleFonts.roboto(
+              style: GoogleFonts.roboto( //Quinto Cambio
                 color: Colors.white,
                 fontSize: 24,
                 fontWeight: FontWeight.bold,
